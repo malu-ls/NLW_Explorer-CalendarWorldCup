@@ -1,11 +1,46 @@
-# NLW_Explorer-CalendarWorldCup
+<h1 align="center"> NLW Explorer - Calendar World Cup </h1>
 
-## Resultado da Primeira Aula
-Construimos a base do Projeto em HTML, separando de forma clara todas as partes da pagina e suas devidas "Caixas"
-![image](https://user-images.githubusercontent.com/53975201/199277018-e7a3f6d8-b84a-4b79-a5b9-269ce187fd73.png)
+<p align="center">
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+</p>
 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## Resultado da Segunda Aula
-Construimos o resto da estrutura em HTML e começamos a estilizar com CSS. Por escolha própria organizei todos os paises em seus grupos respectivos da Copa.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-![image](https://user-images.githubusercontent.com/53975201/199275494-ea106d56-bbdd-4d54-8968-346de705e3a7.png)
+<br>
+
+<p align="center">
+  <img alt="rocketpay" src=".github/Capa.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+
+## 💻 Projeto
+
+Calendario da Copa é um projeto que mostra os jogos da Copa do Mundo Qatar 2022.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
